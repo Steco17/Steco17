@@ -69,8 +69,8 @@ English (native), French (near-native), German (learning).
 
 <div align="center">
   <a href="https://github.com/Steco17">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Steco17&show_icons=true&theme=gradient&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steco17&layout=compact&langs_count=7&theme=gradient" alt="Top languages" />
+    <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Steco17&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Steco17&layout=compact&langs_count=7&theme=tokyonight" alt="Top languages" />
   </a>
 </div>
 
